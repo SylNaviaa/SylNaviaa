@@ -1,9 +1,9 @@
 Welcome to SylNavia's Profile
 =================
 
-  * [💻 Tech Stack](# 💻 Tech Stack:)
-  * [📊 GitHub Stats](# 📊 GitHub Stats:)
-  * [🔝 Top Contributed Repo](# 🔝 Top Contributed Repo)
+  * [💻 Tech Stack]
+  * [📊 GitHub Stats]
+  * [🔝 Top Contributed Repo]
 
 
 # 💻 Tech Stack:
